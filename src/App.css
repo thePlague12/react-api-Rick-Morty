@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.Card {
+  background-color: #61dafb;
+  display: inline-block;
+  align-items: center;
+}
+
+.image-widht {
+  width: 80%;
+}
